@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622553284857",
+    "project_id": "ci-cd-c1677",
+    "storage_bucket": "ci-cd-c1677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622553284857:android:95bcaf6074785c5753a228",
+        "android_client_info": {
+          "package_name": "com.mina.ci_cd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622553284857-jh66te2t3dccuhhda69pcdbdkkjhqdah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsN-6K0DsydHMvF7b-mPnlGfdIURZn2bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622553284857-jh66te2t3dccuhhda69pcdbdkkjhqdah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
